@@ -12,12 +12,14 @@ Prior to this project, I had little to no knowledge about compilers, but through
 
 Here's a simple Kimbo program:
 
+```
 LET x = 5
 LET y = 7
 PRINT x + y
+ ```
 
 When compiled, it produces the following C++ code:
-
+```
 #include <iostream>
 using namespace std;
 int main() {
@@ -26,7 +28,7 @@ int main() {
     cout << (x + y);
     return 0;
 }
-
+ ```
 
 ### Usage
 
