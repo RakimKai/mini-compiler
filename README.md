@@ -1,6 +1,7 @@
 ## Kimbo Programming Language Compiler
 Kimbo is a simple language designed to resemble BASIC with a straightforward syntax.
 Prior to this project, I had little to no knowledge about compilers, but through the process of building this compiler, I gained a solid understanding of how they work.
+My plan is to use what I learned to build upon this project and add functions, for loops and else statements.
 
 ### Features
 
